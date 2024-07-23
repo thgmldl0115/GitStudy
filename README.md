@@ -126,3 +126,5 @@ markdown의 주 목적은 사람들이 읽기 쉽고 쓰기 쉬운 서식 문서
 13.배지 추가
 
 [배지 달기(언어, 기술, 개발 도구, 자격)](https://simpleicons.org)
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
